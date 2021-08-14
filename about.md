@@ -4,7 +4,7 @@
 
 #### 联系我们
 
-DynamicLab编辑部E-mail: dynamiclab@163.com
+DynamicLab编辑部E-mail | dynamiclab@163.com
 
-面向有价值的思想 | DynamicLab.xyz
+DynamicLab，面向有价值的思想。
 
