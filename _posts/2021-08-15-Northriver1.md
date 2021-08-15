@@ -61,9 +61,10 @@
 
 
 
-<img src="C:\Users\North\Desktop\学而思网校_笔记拍照\heibai(1)(1).jpg" alt="heibai(1)(1)" style="zoom: 67%;" />
+![](/images/heibai(1).jpg)
 
-<img src="C:\Users\North\Desktop\学而思网校_笔记拍照\heibai(1).jpg" alt="heibai(1)" style="zoom: 67%;" />
+![](/images/heibai(1)(1).jpg)
+
 
 ​                                                                                             *The Republic,BookⅢ,415*
 
