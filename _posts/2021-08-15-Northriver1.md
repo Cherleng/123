@@ -63,9 +63,8 @@
 
 
 
-![](/images/heibai(1).jpg)
-
 ![](/images/heibai(1)(1).jpg)
+![](/images/heibai(1).jpg)
 
 
 ​                                                                                             *The Republic,BookⅢ,415*
