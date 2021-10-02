@@ -22,3 +22,5 @@ Tencent ：2501687225
 
 DynamicLab，面向有价值的思想。
 
+Think Diffrent. -Steve Jobs.
+
