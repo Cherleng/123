@@ -1,26 +1,11 @@
-### 关于我们 About us
-
-“以严肃的知识 向未知的异域”是网站的核心理念，我们承诺以优质严肃的知识，为用户提供纯粹的智识乐享。
-
-#### 主要成员
-
-编辑部 ： 北河川岛景观、The_sky、1900
-
-技术部 ： The_sky、1900
+### 关于DynamicLab About us
 
 
 
-#### 我们诚挚的欢迎您的来稿！您的关注就是对我们最大的支持！
-
-#### 联系我们
-
-E-mail：dynamiclab@163.com （投稿邮箱）
 
 
-Tencent ：2501687225
+##### 非同凡想. -史蒂夫 乔布斯
 
 
-DynamicLab，面向有价值的思想。
-
-Think Diffrent. -Steve Jobs.
+##### Think Diffrent. -Steve Jobs.
 
